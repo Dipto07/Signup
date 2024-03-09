@@ -1,0 +1,25 @@
+body{
+    background-color:#000000;
+    ;
+    color:#FFFFFF;
+    margin-left:370px;
+}
+
+.form{
+    height: 35px;
+    width: 70%;
+    border:none;
+    background: none;
+    outline: none;
+    border-bottom:1px solid #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+button{
+    padding: 15px 20px;
+    background-color: #FFFFFF;
+    color: #000000;
+}
